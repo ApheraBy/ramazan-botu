@@ -15,7 +15,7 @@
         "port": 3000
     },
     "ramazan": {
-        "api_key": "7uiZRDuC3csUVJz8mL7nCr:0YMppazH2PdOSWuMujaCh4",
+        "api_key": "",
         "refreshTime": 300000,
         "everyMention": false
     }
