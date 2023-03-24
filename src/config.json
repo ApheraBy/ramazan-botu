@@ -1,0 +1,22 @@
+{
+    "discord": {
+        "token": "MTAzNjI3NDMwMjk4MDQ1NjQ0OA.GG4_5M.wCSPVvTinyYKZW19oLFhm8qmM08Zl6dX_Wi4UM",
+        "id": "1036274302980456448"
+    },
+    "applications_commands": {
+        "global": true,
+        "guild_id": ""
+    },
+    "database": {
+        "enabled": false,
+        "url": ""
+    },
+    "express": {
+        "port": 3000
+    },
+    "ramazan": {
+        "api_key": "7uiZRDuC3csUVJz8mL7nCr:0YMppazH2PdOSWuMujaCh4",
+        "refreshTime": 300000,
+        "everyMention": false
+    }
+}
